@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="32" viewBox="0 0 200 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="50%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0066FF"/>
+      <stop offset="50%" stop-color="#6600FF"/>
+      <stop offset="100%" stop-color="#9933FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 2 L190 8 L190 20 L100 30 L10 20 L10 8 Z" fill="url(#bg)" stroke="#2a2a3e" stroke-width="1"/>
+  <rect x="10" y="8" width="3" height="12" rx="1.5" fill="url(#accent)"/>
+  <g transform="translate(22, 8)">
+    <path d="M8 0 L16 14 L13 14 L11 10 L5 10 L3 14 L0 14 Z M6.5 7.5 L9.5 7.5 L8 4 Z" fill="url(#accent)"/>
+  </g>
+  <text x="42" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">AeonCoreX</text>
+  <text x="120" y="17" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="500" fill="#00D4AA">Official</text>
+</svg>
