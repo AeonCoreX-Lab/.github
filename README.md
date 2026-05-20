@@ -18,7 +18,7 @@
 | Detail | Information |
 |--------|-------------|
 | **Company Name** | AeonCoreX Blockchain Private Limited |
-| **Founded** | August 20, 2025 |
+| **Founded** | January 29, 2026 |
 | **Status** | Active |
 | **Type** | Private Limited Company |
 | **Industry** | Blockchain, Streaming, AI, Software Development |
