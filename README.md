@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="badges/aeoncorex-badge-wide.svg" alt="AeonCoreX Official" width="220">
+  <img src="badges/aeoncorex-badge.svg" alt="AeonCoreX Official" width="220">
 
   <h1>AeonCoreX™ Lab</h1>
   <p><strong>Next-Generation Technology Solutions</strong></p>
@@ -19,11 +19,10 @@
 |--------|-------------|
 | **Company Name** | AeonCoreX Blockchain Private Limited |
 | **Founded** | August 20, 2025 |
-| **CIN** | U66190HR2025PTC135294 |
 | **Status** | Active |
 | **Type** | Private Limited Company |
 | **Industry** | Blockchain, Streaming, AI, Software Development |
-| **Headquarters** | India |
+| **Headquarters** | Bangladesh |
 
 ### 🎯 Our Mission
 
