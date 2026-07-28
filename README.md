@@ -115,9 +115,9 @@ Add this to your `README.md`:
 
 ## 📄 License
 
-© 2025 AeonCoreX™ Blockchain Private Limited. All rights reserved.
+© 2025 AeonCoreX™. All rights reserved.
 
-The AeonCoreX™ name, logo, and badges are trademarks of AeonCoreX Blockchain Private Limited.
+The AeonCoreX™ name, logo, and badges are trademarks of AeonCoreX™.
 
 ---
 
