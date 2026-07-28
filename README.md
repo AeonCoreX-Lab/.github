@@ -108,7 +108,7 @@ Add this to your `README.md`:
 
 - 🐙 **GitHub:** [github.com/AeonCoreX-Lab](https://github.com/AeonCoreX-Lab)
 - 🤗 **Hugging Face:** [huggingface.co/AeonCoreX-Lab](https://huggingface.co/AeonCoreX-Lab)
-- 🌐 **Website:** Coming Soon
+- 🌐 **Website:** [Official Website](https://aeoncorex.pages.dev
 - 📧 **Email:** contact@aeoncorex.com
 
 ---
